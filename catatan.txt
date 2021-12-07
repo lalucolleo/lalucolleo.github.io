@@ -1,0 +1,27 @@
+Figma : Untuk membuat mockup
+Squoosh : Web untuk Resize Image
+https://getwaves.io/ : Membuat gelombang gelombang pada web
+
+Link Penting :
+- Bootstrap 5
+https://getbootstrap.com/
+- Figma
+https://www.figma.com/
+- Download Mockup PDF
+https://drive.google.com/file/d/1q-Jf...
+- Visual Studio Code
+https://code.visualstudio.com/
+- Squoosh Image Converter
+https://squoosh.app/
+- Waves Generator
+https://getwaves.io/
+
+Extension : 
+Prettier 
+Open in browser
+Auto Rename Tag
+
+Tips :
+Ctrl + / untuk membuat komentar
+.container lalu tekan TAB : membuat div class
+section#projects lalu tekan TAB : membuat section id projects
